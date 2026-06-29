@@ -1,4 +1,4 @@
-# Precoding_for_MIMO-OTFS：Capacity Analysis of Single-User MIMO-OTFS Systems
+# Capacity Analysis of Single-User MIMO-OTFS Systems
 
 This repo is the MATLAB simulation code for the paper "Capacity Analysis of Single-User MIMO-OTFS Systems".
 
